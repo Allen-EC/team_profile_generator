@@ -23,14 +23,6 @@ THe team will consist of the following:
   * Email Address.
   * School.
 
-<!-- Mixture Variants:
-
-https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4 -->
-
-![Demostration of the app in use:](./assets/TeamProfile.mp4)
-
-Demostration of the app in use:
-
 https://drive.google.com/file/d/1el0VsBBVjgNK52oP7aUSg5TgEGfAZ-64/view?usp=sharing
 
 ## Usage
