@@ -1,26 +1,27 @@
 # Team Profile Generator
-A CLI interface to generate a html file that contains information regarding a team that has been entered on the command line.
 
+A CLI interface to generate a html file that contains information regarding a team that has been entered on the command line.
 
 ## Description
 
 The purpose of this CLI (Command Line Interface) is to ease the creation of a details webpage containing information cards for a team.
 THe team will consist of the following:
+
 * Only 1 Manager, with the following information:  
-    * Name.
-    * Employee ID.
-    * Email Address.
-    * Office Number.
-* 0 or more Engineers, with the following information:
-    * Name.
-    * Employee ID.
-    * Email Address.
-    * GitHub Username.
-* 0 or more Interns, with the following information:
-    * Name.
-    * Employee ID.
-    * Email Address.
-    * School.
+  * Name.
+  * Employee ID.
+  * Email Address.
+  * Office Number.
+* Zero or more Engineers, with the following information:
+  * Name.
+  * Employee ID.
+  * Email Address.
+  * GitHub Username.
+* Zero or more Interns, with the following information:
+  * Name.
+  * Employee ID.
+  * Email Address.
+  * School.
 
 ![demo](./assets/images/screenshot.png)
 
@@ -30,13 +31,16 @@ The source files will be saved into a directory of your choice.
 A GitBash terminal will then be opened in this directory.
 
 THe appropiate "NPM" packages will need to be installed, this is achieved with the following command:
+
 ```text
 npm install
 ```
+
 This will install all the required packages as defined in the package.json file.
 
-The program will be run from the command line by executing the following command: 
-```text 
+The program will be run from the command line by executing the following command:
+
+```text
  node index.js
 ```
 
